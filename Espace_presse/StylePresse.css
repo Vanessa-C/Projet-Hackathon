@@ -1,0 +1,30 @@
+body,html {
+height: 100%;
+width: 100%;
+
+}
+
+.container-fluid{
+    padding: 0;
+    height: 100%;
+}
+
+.haut{
+    border: 1px solid black;
+    height: 60vh;
+
+}
+
+
+.basgauche{
+    border : 1px solid red;
+    height: 40vh;
+    width: 40vw;
+    background-color: orange;
+    
+}
+.basdroite{
+    border : 1px solid yellow;
+    height: 40vh;
+}
+
