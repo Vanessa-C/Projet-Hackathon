@@ -10,21 +10,70 @@ width: 100%;
 }
 
 .haut{
-    border: 1px solid black;
-    height: 60vh;
-
+    height: 50vh;
+    background-color: rgb(149,27,128);
 }
+
+.title{
+    font-family: 'Roboto'sans-serif;
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+
+.txtgauche{
+    color: white;
+    align: left;
+    font-family: 'Roboto'sans-serif;
+    margin-top: 3%;   
+    margin-left: 25%; 
+    display: inline-block;
+}
+
+.txtdroite{
+    color: white;
+    float: right;
+    font-family: 'Roboto'sans-serif;
+    margin-top: 3%;
+    margin-right: 20%;    
+    display: inline;
+}
+
+h2{
+color: white;
+font-size: 18px;
+}
+
+p{
+    color: white;
+    font-family: 'Roboto'sans-serif;  
+    font-size: 16px;
+}
+
 
 
 .basgauche{
-    border : 1px solid red;
-    height: 40vh;
-    width: 40vw;
-    background-color: orange;
+    height: 55vh;
+    background-color: rgb(247,122,38);
     
 }
+
 .basdroite{
-    border : 1px solid yellow;
-    height: 40vh;
+    height: 55vh;
+    background-color: whitesmoke;
 }
+
+img.twit{
+    width: 30%;
+    display: block;
+    margin-top: 13%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tweet{
+    height: 55vh;
+    overflow-y: scroll;
+}
+
 

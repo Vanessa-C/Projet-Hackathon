@@ -1,0 +1,25 @@
+body,html {
+height: 100%;
+width: 100%;
+
+}
+
+.container-fluid{
+    padding: 0;
+    height: 100%;
+}
+
+.haut{
+    height: 55vh;
+    background-color: rgb(203,38,132);
+}
+
+
+.bas{
+    height: 50vh;
+    background-color: rgb(247,122,38);  
+}
+
+.toulouse{
+    height: 100%;
+}
