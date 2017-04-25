@@ -7,14 +7,14 @@ body {
     flex-direction: column;
     justify-content: space-between;
     width: 40px;
-    height: 25px;
+    height: 30px;
     position: fixed;
     margin-top:4%;
     margin-left: 2%;
 }
 
 #bar1, #bar2, #bar3{
-    background-color: black;
+    background-color: white;
     height: 5px;
     width: 40px;
     position: relative;
@@ -32,7 +32,7 @@ body {
 }
 
 #menu-vertical {
-    width: 280px;
+    width: 295px;
     list-style: none;
     margin-top: 14%;
     margin-left: 42%;
@@ -47,7 +47,7 @@ body {
     display: block;   
     color: white;
     font-family: 'Roboto', sans-serif;
-    line-height: 1.6em ;
+    line-height: 1.8em ;
     font-size: 30px;
     text-align: center;
     text-decoration: none;
