@@ -15,7 +15,8 @@ width: 100%;
 }
 
 .title{
-    font-family: 'Roboto'sans-serif;
+    font-family: 'Roboto';
+    font-size: 20px;
     color: white;
     text-align: center;
     padding: 2%;
@@ -25,7 +26,7 @@ width: 100%;
     color: white;
     align: left;
     font-family: 'Roboto'sans-serif;
-    margin-top: 3%;   
+    margin-top: 2%;   
     margin-left: 25%; 
     display: inline-block;
 }
@@ -34,20 +35,21 @@ width: 100%;
     color: white;
     float: right;
     font-family: 'Roboto'sans-serif;
-    margin-top: 3%;
-    margin-right: 20%;    
+    margin-top: 2%;
+    margin-right: 15%;    
     display: inline;
 }
 
 h2{
 color: white;
-font-size: 18px;
+font-family:'Roboto';
+font-size: 16px;
 }
 
 p{
     color: white;
     font-family: 'Roboto'sans-serif;  
-    font-size: 16px;
+    font-size: 110%;
 }
 
 
