@@ -1,0 +1,16 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .title{
+        font-size: small;
+    }
+    .txtgauche{
+        font-size: smaller;
+    }
+    .txtdroite{
+        font-size: smaller;
+    }
+    .haut {
+        overflow: scroll;
+    }
+}
+
+
