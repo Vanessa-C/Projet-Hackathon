@@ -1,0 +1,21 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .titre{
+        font-size: medium;
+    }
+    .texte{
+        font-size: small;
+    }
+    #enjeux {
+        overflow: scroll;
+    }
+}
+
+@media (width: 1024px) {
+    .titre{
+        font-size: 30px;
+    }
+    .texte{
+        font-size: 20px;
+    }
+    
+}
